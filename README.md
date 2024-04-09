@@ -18,7 +18,8 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
   
 - Phonon predictions with E(3)-equivariant graph neural networks (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=xxyHjer00Y)]
 
-
+- Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/lin23m.html)]
+            [[**Code**](https://github.com/divelab/AIRS)]
 
 ## Crystal Materials Generation
 - Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
@@ -35,6 +36,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
  [[**Code**](https://github.com/shi-yu-wang/PGD-VAE)]
 
 - Xtal2DoS: Attention-based Crystal to Sequence Learning for Density of States Prediction (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=Fw8PO9i5KG)]
+
+- Rigid Body Flows for Sampling Molecular Crystal Structures (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/kohler23a.html)]
+            [[**Code**](https://github.com/noegroup/rigid-flows)]
 
 ## DL
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
