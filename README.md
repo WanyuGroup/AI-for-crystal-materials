@@ -2,18 +2,25 @@
 Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences in recent years.
 
 ## ML
-
+- Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
+            [[**Code**](https://github.com/YKQ98/Matformer)]
+  
 ## Crystal Materials Property Prediction
 - Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract-Conference.html)]
             [[**Code**](https://github.com/HeewoongNoh/DOSTransformer)]
 
 - Periodic Graph Transformers for Crystal Material Property Prediction (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6145c70a4a4bf353a31ac5496a72a72d-Abstract-Conference.html)]
             [[**Code**](https://github.com/YKQ98/Matformer)]
+- Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
+
 
 ## Crystal Materials Generation
 - Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
 - Crystal Structure Prediction by Joint Equivariant Diffusion (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38b787fc530d0b31825827e2cc306656-Abstract-Conference.html)]
  [[**Code**](https://github.com/jiaor17/DiffCSP)]
+- Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=VbjD8w2ctG)]
+ [[**Code**](https://github.com/chandar-lab/crystal-design)]
+
 ## DL
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
   
