@@ -50,6 +50,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
         
 - Behavioral Cloning for Crystal Design (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
 
+- Latent Conservative Objective Models for Offline Data-Driven Crystal Structure Prediction (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=rAGYFtTQ-Zz)]
+
+
 ## DL
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
   
