@@ -1,5 +1,5 @@
 # AI-for-crystal-materials
-Here we have collected papers on "AI for crystal materials" that appeared at top machine learning conferences in 2023 and 2024.
+Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences in recent years.
 
 ## NeurIPS
 
