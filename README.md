@@ -21,6 +21,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/lin23m.html)]
             [[**Code**](https://github.com/divelab/AIRS)]
 
+- CrysGNN: Distilling Pre-trained Knowledge to Enhance Property Prediction for Crystalline Materials (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25892)]
+            [[**Code**](https://github.com/kdmsit/crysgnn)]
+
 ## Crystal Materials Generation
 - Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
   
@@ -39,6 +42,10 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 - Rigid Body Flows for Sampling Molecular Crystal Structures (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/kohler23a.html)]
             [[**Code**](https://github.com/noegroup/rigid-flows)]
+
+- A language-based recommendation system for material discovery (ICML2023) [[**Paper**](https://openreview.net/pdf?id=eR6HlKQDvt)]
+        
+- Behavioral Cloning for Crystal Design (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
 
 ## DL
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
