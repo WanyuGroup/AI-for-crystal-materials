@@ -13,6 +13,8 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
             [[**Code**](https://github.com/YKQ98/Matformer)]
   
 - Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
+
+- Graph Contrastive Learning for Materials (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=fsQerGaT5A8)]
   
 - Phonon predictions with E(3)-equivariant graph neural networks (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=xxyHjer00Y)]
 
@@ -32,6 +34,8 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Deep Generative Model for Periodic Graphs (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html)]
  [[**Code**](https://github.com/shi-yu-wang/PGD-VAE)]
 
+- Xtal2DoS: Attention-based Crystal to Sequence Learning for Density of States Prediction (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=Fw8PO9i5KG)]
+
 ## DL
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
   
@@ -42,6 +46,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
   
 - Mitigating Bias in Scientific Data: A Materials Science Case Study (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=PfpbWuC0Yk)]
             [[**Code**](https://github.com/Henrium/ET-AL)]
+  
+- Stoichiometry Representation Learning with Polymorphic Crystal Structures (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=DBiWSzlaGz)]
+            [[**Code**](https://github.com/Namkyeong/PolySRL_AI4Science)]
 
 - Connectivity Optimized Nested Line Graph Networks for Crystal Structures (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=l3K28QS6R6)]
             [[**Code**](https://github.com/matbench-submission-coGN/CrystalGNNs)]
@@ -51,4 +58,6 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
   
 - Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d07379f3acf3af51dfc8598862cadfa0-Abstract-Datasets_and_Benchmarks.html)]
             [[**Code**](https://github.com/chao1224/Geom3D)]
-   
+
+- EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=SeXGn7MeUr)]
+                        [[**Code**](https://github.com/M3RG-IITD/MDBENCHGNN)]
