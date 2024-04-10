@@ -1,8 +1,11 @@
 # AI-for-crystal-materials
 Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences in recent years.
 
-## Crystal Structure Prediction
+## Crystal Structure Prediction and Design
 - Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
+
+- Accelerating Inverse Learning via Intelligent Localization with Exploratory Sampling (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26719)]
+            [[**Code**](https://github.com/jxzhangjhu/MatDesINNe)]
 
 ## Crystal Materials Property Prediction
 - Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract-Conference.html)]
@@ -32,8 +35,6 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)]
             [[**Code**](https://github.com/aklipf/gemsdiff)]
   
-- Accelerating Inverse Learning via Intelligent Localization with Exploratory Sampling (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26719)]
-            [[**Code**](https://github.com/jxzhangjhu/MatDesINNe)]
 
 - Equivariant Message Passing Neural Network for Crystal Material Discovery (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26673)]
             [[**Code**](https://github.com/aklipf/pegnn)]
