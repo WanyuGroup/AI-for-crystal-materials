@@ -29,7 +29,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
 
 - A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]
-        
+
+- Xtal2DoS: Attention-based Crystal to Sequence Learning for Density of States Prediction (NeurIPS2022 workshop) [[**Paper**](https://openreview.net/pdf?id=Fw8PO9i5KG)]
+
 
 ## Crystal Materials Generation
 - Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)]
@@ -52,7 +54,6 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Deep Generative Model for Periodic Graphs (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html)]
  [[**Code**](https://github.com/shi-yu-wang/PGD-VAE)]
 
-- Xtal2DoS: Attention-based Crystal to Sequence Learning for Density of States Prediction (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=Fw8PO9i5KG)]
 
 - Rigid Body Flows for Sampling Molecular Crystal Structures (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/kohler23a.html)]
             [[**Code**](https://github.com/noegroup/rigid-flows)]
