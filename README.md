@@ -39,7 +39,7 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Equivariant Message Passing Neural Network for Crystal Material Discovery (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26673)]
             [[**Code**](https://github.com/aklipf/pegnn)]
 
-- Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
+- Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
   
 - Crystal Structure Prediction by Joint Equivariant Diffusion (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38b787fc530d0b31825827e2cc306656-Abstract-Conference.html)]
  [[**Code**](https://github.com/jiaor17/DiffCSP)]
