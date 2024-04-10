@@ -14,7 +14,7 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 - Graph Contrastive Learning for Materials (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=fsQerGaT5A8)]
   
-- Phonon predictions with E(3)-equivariant graph neural networks (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=xxyHjer00Y)]
+- Phonon predictions with E(3)-equivariant graph neural networks (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=xxyHjer00Y)]
 
 - Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/lin23m.html)]
             [[**Code**](https://github.com/divelab/AIRS)]
