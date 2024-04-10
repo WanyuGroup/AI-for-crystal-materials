@@ -47,7 +47,7 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=VbjD8w2ctG)]
  [[**Code**](https://github.com/chandar-lab/crystal-design)]
 
-- Scalable Diffusion for Materials Generation (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=trnzZVhXj2)]
+- Scalable Diffusion for Materials Generation (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=trnzZVhXj2)]
 
 - Deep Generative Model for Periodic Graphs (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html)]
  [[**Code**](https://github.com/shi-yu-wang/PGD-VAE)]
