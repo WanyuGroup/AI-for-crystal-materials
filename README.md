@@ -53,20 +53,20 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 - Deep Generative Model for Periodic Graphs (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html)]
  [[**Code**](https://github.com/shi-yu-wang/PGD-VAE)]
-
-
-- Rigid Body Flows for Sampling Molecular Crystal Structures (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/kohler23a.html)]
-            [[**Code**](https://github.com/noegroup/rigid-flows)]
-
-- A language-based recommendation system for material discovery (ICML2023) [[**Paper**](https://openreview.net/pdf?id=eR6HlKQDvt)]
-        
-- Behavioral Cloning for Crystal Design (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
+   
+- Behavioral Cloning for Crystal Design (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
 
 - Latent Conservative Objective Models for Offline Data-Driven Crystal Structure Prediction (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=rAGYFtTQ-Zz)]
 
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
   
 ## Other
+
+- A language-based recommendation system for material discovery (ICML2023 workshop) [[**Paper**](https://openreview.net/pdf?id=eR6HlKQDvt)]
+     
+- Rigid Body Flows for Sampling Molecular Crystal Structures (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/kohler23a.html)]
+            [[**Code**](https://github.com/noegroup/rigid-flows)]
+
 - Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
             [[**Code**](https://github.com/YKQ98/Matformer)]
 
