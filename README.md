@@ -1,5 +1,5 @@
 # AI-for-crystal-materials
-Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences in recent years.
+Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences (ICML, ICLR, NeurIPS, AAAI, corresponding workshops) in recent years.
 
 
 ## Crystal Materials Property Prediction
