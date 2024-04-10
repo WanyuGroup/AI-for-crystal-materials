@@ -49,7 +49,7 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
  [[**Code**](https://github.com/chandar-lab/crystal-design)]
 
 - Scalable Diffusion for Materials Generation (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=trnzZVhXj2)]
-- 
+  
 - Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
 
 - Behavioral Cloning for Crystal Design (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
