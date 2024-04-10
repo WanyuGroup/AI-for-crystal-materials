@@ -9,7 +9,7 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Periodic Graph Transformers for Crystal Material Property Prediction (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6145c70a4a4bf353a31ac5496a72a72d-Abstract-Conference.html)]
             [[**Code**](https://github.com/YKQ98/Matformer)]
   
-- Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (ICLR2023 workshop paper) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
+- Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
 
 - Graph Contrastive Learning for Materials (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=fsQerGaT5A8)]
   
