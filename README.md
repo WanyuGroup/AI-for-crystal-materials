@@ -3,6 +3,10 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 
 ## Crystal Materials Property Prediction
+- Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
+
+- A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]
+  
 - Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract-Conference.html)]
             [[**Code**](https://github.com/HeewoongNoh/DOSTransformer)]
   
@@ -13,11 +17,6 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 - CrysGNN: Distilling Pre-trained Knowledge to Enhance Property Prediction for Crystalline Materials (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25892)]
             [[**Code**](https://github.com/kdmsit/crysgnn)]
-
-
-- Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
-
-- A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]
 
 - Xtal2DoS: Attention-based Crystal to Sequence Learning for Density of States Prediction (NeurIPS2022 workshop) [[**Paper**](https://openreview.net/pdf?id=Fw8PO9i5KG)]
 - 
