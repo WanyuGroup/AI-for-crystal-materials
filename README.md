@@ -1,9 +1,6 @@
 # AI-for-crystal-materials
 Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences in recent years.
 
-## ML
-- Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
-            [[**Code**](https://github.com/YKQ98/Matformer)]
   
 ## Crystal Materials Property Prediction
 - Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract-Conference.html)]
@@ -66,11 +63,12 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 - Latent Conservative Objective Models for Offline Data-Driven Crystal Structure Prediction (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=rAGYFtTQ-Zz)]
 
-
-## DL
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
   
 ## Other
+- Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
+            [[**Code**](https://github.com/YKQ98/Matformer)]
+
 - Matbench Discovery - Can machine learning identify stable crystals? (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=yQkKMgAdWve)]
   [[**Code**](https://github.com/janosh/matbench-discovery)]
   
