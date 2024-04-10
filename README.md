@@ -22,7 +22,7 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - CrysGNN: Distilling Pre-trained Knowledge to Enhance Property Prediction for Crystalline Materials (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25892)]
             [[**Code**](https://github.com/kdmsit/crysgnn)]
 
-- Predicting Density of States via Multi-modal Transformer  (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=TkaD8lWymAP)]
+- Predicting Density of States via Multi-modal Transformer  (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=TkaD8lWymAP)]
             [[**Code**](https://github.com/HeewoongNoh/DOSTransformer)]
 
 - Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
