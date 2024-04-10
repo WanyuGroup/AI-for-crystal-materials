@@ -1,11 +1,6 @@
 # AI-for-crystal-materials
 Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences in recent years.
 
-## Crystal Structure Prediction and Design
-- Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
-
-- Accelerating Inverse Learning via Intelligent Localization with Exploratory Sampling (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26719)]
-            [[**Code**](https://github.com/jxzhangjhu/MatDesINNe)]
 
 ## Crystal Materials Property Prediction
 - Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract-Conference.html)]
@@ -32,8 +27,17 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 - Xtal2DoS: Attention-based Crystal to Sequence Learning for Density of States Prediction (NeurIPS2022 workshop) [[**Paper**](https://openreview.net/pdf?id=Fw8PO9i5KG)]
 
+- Matbench Discovery - Can machine learning identify stable crystals? (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=yQkKMgAdWve)]
+  [[**Code**](https://github.com/janosh/matbench-discovery)]
 
-## Crystal Materials Generation
+- Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
+
+## Crystal Materials Generation and Design
+- Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
+
+- Accelerating Inverse Learning via Intelligent Localization with Exploratory Sampling (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26719)]
+            [[**Code**](https://github.com/jxzhangjhu/MatDesINNe)]
+
 - Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)]
             [[**Code**](https://github.com/aklipf/gemsdiff)]
   
@@ -56,9 +60,6 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
    
 - Behavioral Cloning for Crystal Design (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
 
-- Latent Conservative Objective Models for Offline Data-Driven Crystal Structure Prediction (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=rAGYFtTQ-Zz)]
-
-- Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
   
 ## Other
 
@@ -70,12 +71,11 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
             [[**Code**](https://github.com/YKQ98/Matformer)]
 
-- Matbench Discovery - Can machine learning identify stable crystals? (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=yQkKMgAdWve)]
-  [[**Code**](https://github.com/janosh/matbench-discovery)]
-  
 - Resolving the data ambiguity for periodic crystals (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c256fa1965318b7fcb9ed104c265540-Abstract-Conference.html)]
 
-- Neural Structure Fields with Application to Crystal Structure Autoencoders (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=qLKFSAvMka4)]
+
+
+- Neural Structure Fields with Application to Crystal Structure Autoencoders (NeurIPS2022 workshop) [[**Paper**](https://openreview.net/pdf?id=qLKFSAvMka4)]
   
 - Mitigating Bias in Scientific Data: A Materials Science Case Study (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=PfpbWuC0Yk)]
             [[**Code**](https://github.com/Henrium/ET-AL)]
