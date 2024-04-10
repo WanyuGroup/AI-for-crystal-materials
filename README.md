@@ -27,7 +27,21 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Predicting Density of States via Multi-modal Transformer  (ICLR2023) [[**Paper**](https://openreview.net/pdf?id=TkaD8lWymAP)]
             [[**Code**](https://github.com/HeewoongNoh/DOSTransformer)]
 
+- Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
+
+- A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]
+        
+
 ## Crystal Materials Generation
+- Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)]
+            [[**Code**](https://github.com/aklipf/gemsdiff)]
+  
+- Accelerating Inverse Learning via Intelligent Localization with Exploratory Sampling (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26719)]
+            [[**Code**](https://github.com/jxzhangjhu/MatDesINNe)]
+
+- Equivariant Message Passing Neural Network for Crystal Material Discovery (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26673)]
+            [[**Code**](https://github.com/aklipf/pegnn)]
+
 - Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
   
 - Crystal Structure Prediction by Joint Equivariant Diffusion (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38b787fc530d0b31825827e2cc306656-Abstract-Conference.html)]
@@ -57,6 +71,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
   
 ## Other
+- Matbench Discovery - Can machine learning identify stable crystals? (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=yQkKMgAdWve)]
+  [[**Code**](https://github.com/janosh/matbench-discovery)]
+  
 - Resolving the data ambiguity for periodic crystals (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c256fa1965318b7fcb9ed104c265540-Abstract-Conference.html)]
 
 - Neural Structure Fields with Application to Crystal Structure Autoencoders (NeurIPS2022) [[**Paper**](https://openreview.net/pdf?id=qLKFSAvMka4)]
