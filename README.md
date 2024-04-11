@@ -57,6 +57,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Deep Generative Model for Periodic Graphs (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html)]
  [[**Code**](https://github.com/shi-yu-wang/PGD-VAE)]
 
+- M^2Hub: Unlocking the Potential of Machine Learning for Materials Discovery (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f43380ca3f86cd989f3269583c3c8b55-Abstract-Datasets_and_Benchmarks.html)]
+            [[**Code**](https://github.com/yuanqidu/M2Hub)]
+  
 
 ## Crystal Representation
 - Resolving the data ambiguity for periodic crystals (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c256fa1965318b7fcb9ed104c265540-Abstract-Conference.html)]
@@ -88,11 +91,8 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Mitigating Bias in Scientific Data: A Materials Science Case Study (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=PfpbWuC0Yk)]
             [[**Code**](https://github.com/Henrium/ET-AL)]
   
-  
-- M^2Hub: Unlocking the Potential of Machine Learning for Materials Discovery (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f43380ca3f86cd989f3269583c3c8b55-Abstract-Datasets_and_Benchmarks.html)]
-            [[**Code**](https://github.com/yuanqidu/M2Hub)]
-  
 
 
-- EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=SeXGn7MeUr)]
+
+- EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=SeXGn7MeUr)]
                         [[**Code**](https://github.com/M3RG-IITD/MDBENCHGNN)]
