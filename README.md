@@ -66,7 +66,7 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d07379f3acf3af51dfc8598862cadfa0-Abstract-Datasets_and_Benchmarks.html)]
             [[**Code**](https://github.com/chao1224/Geom3D)]
 
-- Stoichiometry Representation Learning with Polymorphic Crystal Structures (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=DBiWSzlaGz)]
+- Stoichiometry Representation Learning with Polymorphic Crystal Structures (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=DBiWSzlaGz)]
             [[**Code**](https://github.com/Namkyeong/PolySRL_AI4Science)]
 
 - Connectivity Optimized Nested Line Graph Networks for Crystal Structures (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=l3K28QS6R6)]
@@ -79,13 +79,13 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Rigid Body Flows for Sampling Molecular Crystal Structures (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/kohler23a.html)]
             [[**Code**](https://github.com/noegroup/rigid-flows)]
 
-- Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
+- Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
             [[**Code**](https://github.com/YKQ98/Matformer)]
 
 
 
 
-- Mitigating Bias in Scientific Data: A Materials Science Case Study (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=PfpbWuC0Yk)]
+- Mitigating Bias in Scientific Data: A Materials Science Case Study (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=PfpbWuC0Yk)]
             [[**Code**](https://github.com/Henrium/ET-AL)]
   
   
