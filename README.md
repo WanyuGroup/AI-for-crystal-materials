@@ -5,7 +5,10 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 ## Crystal Materials Property Prediction
 - Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
 
-- Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=fxQiecl9HB)]
+- Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=BnQY9XiRAS)]
+    [[**Code**](https://github.com/divelab/AIRS)]
+
+- Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=fxQiecl9HB)]
     [[**Code**](https://github.com/omron-sinicx/crystalformer)]
 
 - A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]
@@ -34,6 +37,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
 
 ## Crystal Materials Generation and Design
+- Space Group Constrained Crystal Generation (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=jkvZ7v4OmP)]
+    [[**Code**](https://github.com/jiaor17/DiffCSP-PP)]
+
 - Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)]
             [[**Code**](https://github.com/aklipf/gemsdiff)]
   
