@@ -40,6 +40,12 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Space Group Constrained Crystal Generation (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=jkvZ7v4OmP)]
     [[**Code**](https://github.com/jiaor17/DiffCSP-PP)]
 
+- Fine-Tuned Language Models Generate Stable Inorganic Materials as Text (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=vN9fpfqoP1)]
+    [[**Code**](https://github.com/facebookresearch/crystal-llm)]
+
+- Scalable Diffusion for Materials Generation (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=wm4WlHoXpC)]
+
+
 - Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)]
             [[**Code**](https://github.com/aklipf/gemsdiff)]
   
@@ -57,8 +63,6 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=VbjD8w2ctG)]
  [[**Code**](https://github.com/chandar-lab/crystal-design)]
 
-- Scalable Diffusion for Materials Generation (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=trnzZVhXj2)]
-  
 - Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
 
 - Behavioral Cloning for Crystal Design (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
