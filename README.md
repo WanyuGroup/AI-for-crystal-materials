@@ -109,3 +109,22 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 - EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=SeXGn7MeUr)]
                         [[**Code**](https://github.com/M3RG-IITD/MDBENCHGNN)]
+
+
+  ## Nature
+
+  - A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (NC 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)]
+ 
+  - A universal graph deep learning interatomic potential for the periodic table (Nature Computational Science 2022) [[**Paper**](https://www.nature.com/articles/s43588-022-00349-3)]
+ 
+  - Physics guided deep learning for generative design of crystal materials with symmetry constraints (npj Computational Materials 2023) [[**Paper**](https://doi.org/10.1038/s41524-023-00987-9)]
+ 
+  - An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning  (NC 2023) [[**Paper**](https://doi.org/10.1038/s41467-023-42870-7)]
+  
+  - MatterGen: a generative model for inorganic materials design (arXiv 2023) [[**Paper**](https://arxiv.org/abs/2312.03687)]
+ 
+  - Space Group Informed Transformer for Crystalline Materials Generation (arXiv 2024) [[**Paper**](https://arxiv.org/abs/2403.15734)]
+
+
+
+  
