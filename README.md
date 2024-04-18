@@ -125,6 +125,10 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
  
 - Space Group Informed Transformer for Crystalline Materials Generation (arXiv 2024) [[**Paper**](https://arxiv.org/abs/2403.15734)]
 
+- CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling (Nature Machine Intelligence 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00716-3)]
 
+- MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields (arXiv 2023) [[**Paper**](https://arxiv.org/abs/2206.07697)]
+
+- Scaling deep learning for materials discovery (Nature 2023) [[**Paper**](https://www.nature.com/articles/s41586-023-06735-9)]
 
   
