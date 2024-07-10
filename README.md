@@ -128,6 +128,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 ## Nature
 
+- An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning (NC 2023) [[**Paper**](https://www.nature.com/articles/s41467-023-42870-7)]
+            [[**Code**](https://github.com/xiaohang007/SLICES)]
+
 - A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (NC 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)]
 
 - Explainable machine learning in materials science (npj Computational Materials 2022) [[**Paper**](https://www.nature.com/articles/s41524-022-00884-7)]
