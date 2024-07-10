@@ -3,6 +3,10 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 
 ## Crystal Materials Property Prediction
+
+- A Space Group Symmetry Informed Network for O(3) Equivariant Crystal Tensor Prediction (ICML2024) [[**Paper**](https://arxiv.org/abs/2406.12888)]
+    [[**Code**](https://github.com/divelab/AIRS)]
+  
 - Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
 
 - Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=BnQY9XiRAS)]
@@ -37,6 +41,14 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 - Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
 
 ## Crystal Materials Generation and Design
+- Equivariant Diffusion for Crystal Structure Prediction (ICML2024) [[**Paper**](https://openreview.net/forum?id=VRv8KjJNuj)]
+    [[**Code**](https://github.com/EmperorJia/EquiCSP)]
+
+- FlowMM: Generating Materials with Riemannian Flow Matching (ICML2024) [[**Paper**](https://arxiv.org/abs/2406.04713)]
+    [[**Code**](https://github.com/facebookresearch/flowmm)]
+
+  
+
 - Space Group Constrained Crystal Generation (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=jkvZ7v4OmP)]
     [[**Code**](https://github.com/jiaor17/DiffCSP-PP)]
 
@@ -89,6 +101,9 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
             [[**Code**](https://github.com/matbench-submission-coGN/CrystalGNNs)]
 
 ## Other
+
+- Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution (ICML2024) [[**Paper**](https://openreview.net/forum?id=59oXyDTLJv)]
+    [[**Code**](https://github.com/atomicarchitects/Symmetry-Breaking-Discovery)]
 
 - A language-based recommendation system for material discovery (ICML2023 workshop) [[**Paper**](https://openreview.net/pdf?id=eR6HlKQDvt)]
      
