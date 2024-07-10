@@ -139,7 +139,6 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
  
 - Physics guided deep learning for generative design of crystal materials with symmetry constraints (npj Computational Materials 2023) [[**Paper**](https://doi.org/10.1038/s41524-023-00987-9)]
  
-- An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning  (NC 2023) [[**Paper**](https://doi.org/10.1038/s41467-023-42870-7)]
 
 - MatterGen: a generative model for inorganic materials design (arXiv 2023) [[**Paper**](https://arxiv.org/abs/2312.03687)]
  
