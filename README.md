@@ -1,7 +1,7 @@
 # AI-for-crystal-materials： models and benchmarks
-Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years.
+Here we have collected papers with the theme of "AI for crystalline materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years.
 
-## Crystal Physicochemical Property Prediction
+## Crystalline Material Physicochemical Property Prediction
 
 |Method         |           Paper            |
 |----------------|-------------------------------|
@@ -28,93 +28,23 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 
 
 
+## Crystalline Material Synthesis
 
+|Method         |           Paper            |
+|----------------|-------------------------------|
+|G-SchNet         | Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules (NeurIPS2019) [[**Paper**](https://proceedings.neurips.cc/paper/2019/hash/a4d8e2a7e0d0c102339f97716d2fdfb6-Abstract.html)][[**Code**](https://github.com/atomistic-machine-learning/G-SchNet)]     | 
+|CDVAE          | Crystal Diffusion Variational Autoencoder for Periodic Material Generation (ICLR2022) [[**Paper**](https://openreview.net/forum?id=03RLpj-tc_)][[**Code**](https://github.com/txie-93/cdvae)]     | 
+|Con-CDVAE          | Con-CDVAE: A method for the conditional generation of crystal structures (Computational Materials Today, 2024) [[**Paper**](https://www.sciencedirect.com/science/article/pii/S2950463524000036)][[**Code**](https://github.com/cyye001/Con-CDVAE)]     | 
+|Cond-CDVAE         | Deep learning generative model for crystal structure prediction (Arxiv, 2024) [[**Paper**](https://arxiv.org/abs/2403.10846)][[**Code**](https://github.com/ixsluo/cond-cdvae)]     | 
+|LCOMs          | Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (NeurIPS2023 Workshop) [[**Paper**](https://openreview.net/forum?id=BTeWafMOyt)]     | 
+|DiffCSP          | Crystal structure prediction by joint equivariant diffusion on lattices and fractional coordinates (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38b787fc530d0b31825827e2cc306656-Abstract-Conference.html)][[**Code**](https://github.com/jiaor17/DiffCSP)]     | 
+|EquiCSP         | Equivariant Diffusion for Crystal Structure Prediction (ICML2024) [[**Paper**](https://openreview.net/forum?id=VRv8KjJNuj)][[**Code**](https://github.com/EmperorJia/EquiCSP)]     | 
+|GemsDiff         | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
 
-
-
-## Crystal Materials Property Prediction
-
-- A Space Group Symmetry Informed Network for O(3) Equivariant Crystal Tensor Prediction (ICML2024) [[**Paper**](https://arxiv.org/abs/2406.12888)]
-    [[**Code**](https://github.com/divelab/AIRS)]
-  
-- Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]
-
-- Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=BnQY9XiRAS)]
-    [[**Code**](https://github.com/divelab/AIRS)]
-
-- Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=fxQiecl9HB)]
-    [[**Code**](https://github.com/omron-sinicx/crystalformer)]
-
-- A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]
-  
-- Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract-Conference.html)]
-            [[**Code**](https://github.com/HeewoongNoh/DOSTransformer)]
-  
-- Phonon predictions with E(3)-equivariant graph neural networks (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=xxyHjer00Y)]
-
-- Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/lin23m.html)]
-            [[**Code**](https://github.com/divelab/AIRS)]
-
-- CrysGNN: Distilling Pre-trained Knowledge to Enhance Property Prediction for Crystalline Materials (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25892)]
-            [[**Code**](https://github.com/kdmsit/crysgnn)]
-
-- Matbench Discovery - Can machine learning identify stable crystals? (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=yQkKMgAdWve)]
-  [[**Code**](https://github.com/janosh/matbench-discovery)]
-
-- Xtal2DoS: Attention-based Crystal to Sequence Learning for Density of States Prediction (NeurIPS2022 workshop) [[**Paper**](https://openreview.net/pdf?id=Fw8PO9i5KG)]
-
-- Periodic Graph Transformers for Crystal Material Property Prediction (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6145c70a4a4bf353a31ac5496a72a72d-Abstract-Conference.html)]
-            [[**Code**](https://github.com/YKQ98/Matformer)]
-  
-- Graph Contrastive Learning for Materials (NeurIPS2022 workshop) [[**Paper**](https://openreview.net/pdf?id=fsQerGaT5A8)]
-
-- Equivariant Networks for Crystal Structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)]
-
-## Crystal Materials Generation and Design
-- Equivariant Diffusion for Crystal Structure Prediction (ICML2024) [[**Paper**](https://openreview.net/forum?id=VRv8KjJNuj)]
-    [[**Code**](https://github.com/EmperorJia/EquiCSP)]
-
-- FlowMM: Generating Materials with Riemannian Flow Matching (ICML2024) [[**Paper**](https://arxiv.org/abs/2406.04713)]
-    [[**Code**](https://github.com/facebookresearch/flowmm)]
-
-  
-
-- Space Group Constrained Crystal Generation (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=jkvZ7v4OmP)]
-    [[**Code**](https://github.com/jiaor17/DiffCSP-PP)]
-
-- Fine-Tuned Language Models Generate Stable Inorganic Materials as Text (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=vN9fpfqoP1)]
-    [[**Code**](https://github.com/facebookresearch/crystal-llm)]
-
-- Scalable Diffusion for Materials Generation (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=wm4WlHoXpC)]
-
-
-- Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)]
-            [[**Code**](https://github.com/aklipf/gemsdiff)]
-  
-- Accelerating Inverse Learning via Intelligent Localization with Exploratory Sampling (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26719)]
-            [[**Code**](https://github.com/jxzhangjhu/MatDesINNe)]
-
-- Equivariant Message Passing Neural Network for Crystal Material Discovery (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26673)]
-            [[**Code**](https://github.com/aklipf/pegnn)]
-  
-- Crystal Structure Prediction by Joint Equivariant Diffusion (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38b787fc530d0b31825827e2cc306656-Abstract-Conference.html)]
- [[**Code**](https://github.com/jiaor17/DiffCSP)]
-
-- Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=BTeWafMOyt)]
-
-- Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=VbjD8w2ctG)]
- [[**Code**](https://github.com/chandar-lab/crystal-design)]
-
-- Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=dJuDv4MKLE)]
-
-- Behavioral Cloning for Crystal Design (ICLR2023 workshop) [[**Paper**](https://openreview.net/pdf?id=qxuIaeDlemv)]
-
-- Deep Generative Model for Periodic Graphs (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html)]
- [[**Code**](https://github.com/shi-yu-wang/PGD-VAE)]
-
-- M^2Hub: Unlocking the Potential of Machine Learning for Materials Discovery (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f43380ca3f86cd989f3269583c3c8b55-Abstract-Datasets_and_Benchmarks.html)]
-            [[**Code**](https://github.com/yuanqidu/M2Hub)]
-  
 
 ## Crystal Representation
 - Resolving the data ambiguity for periodic crystals (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c256fa1965318b7fcb9ed104c265540-Abstract-Conference.html)]
