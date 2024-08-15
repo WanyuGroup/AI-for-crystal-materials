@@ -39,12 +39,21 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LCOMs          | Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (NeurIPS2023 Workshop) [[**Paper**](https://openreview.net/forum?id=BTeWafMOyt)]     | 
 |DiffCSP          | Crystal structure prediction by joint equivariant diffusion on lattices and fractional coordinates (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38b787fc530d0b31825827e2cc306656-Abstract-Conference.html)][[**Code**](https://github.com/jiaor17/DiffCSP)]     | 
 |EquiCSP         | Equivariant Diffusion for Crystal Structure Prediction (ICML2024) [[**Paper**](https://openreview.net/forum?id=VRv8KjJNuj)][[**Code**](https://github.com/EmperorJia/EquiCSP)]     | 
-|GemsDiff         | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|GemsDiff         | Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)][[**Code**](https://github.com/aklipf/gemsdiff)]     | 
+|SyMat          | Towards symmetry-aware generation of periodic materials (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a73474c359ed523e6cd3174ed29a4d56-Abstract-Conference.html)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/SyMat)]     | 
+|EMPNN         | Equivariant Message Passing Neural Network for Crystal Material Discovery (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/26673)][[**Code**](https://github.com/aklipf/pegnn)]     | 
+|UniMat         | Scalable Diffusion for Materials Generation (ICLR2024) [[**Paper**](https://openreview.net/forum?id=wm4WlHoXpC)][[**Code**](https://unified-materials.github.io/unimat/)]  | 
+|MatterGen         | Mattergen: a generative model for inorganic materials design (Arxiv, 2023) [[**Paper**](https://arxiv.org/abs/2312.03687)]   | 
+|PGCGM          | Physics guided deep learning for generative design of crystal materials with symmetry constraints (npj Computational Materials, 2023) [[**Paper**](https://www.nature.com/articles/s41524-023-00987-9)][[**Code**](https://github.com/MilesZhao/PGCGM)]     | 
+|CubicGAN         | High-throughput discovery of novel cubic crystal materials using deep generative neural networks (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202100566)][[**Code**](https://github.com/MilesZhao/CubicGAN)]     | 
 |Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
 |Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
 |Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
 |Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
 
 ## Crystal Representation
 - Resolving the data ambiguity for periodic crystals (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c256fa1965318b7fcb9ed104c265540-Abstract-Conference.html)]
