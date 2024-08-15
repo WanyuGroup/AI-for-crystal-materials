@@ -46,8 +46,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MatterGen         | Mattergen: a generative model for inorganic materials design (Arxiv, 2023) [[**Paper**](https://arxiv.org/abs/2312.03687)]   | 
 |PGCGM          | Physics guided deep learning for generative design of crystal materials with symmetry constraints (npj Computational Materials, 2023) [[**Paper**](https://www.nature.com/articles/s41524-023-00987-9)][[**Code**](https://github.com/MilesZhao/PGCGM)]     | 
 |CubicGAN         | High-throughput discovery of novel cubic crystal materials using deep generative neural networks (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202100566)][[**Code**](https://github.com/MilesZhao/CubicGAN)]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
+|PCVAE          | PCVAE: A Physics-informed Neural Network for Determining the Symmetry and Geometry of Crystals (IJCNN2023) [[**Paper**](https://ieeexplore.ieee.org/abstract/document/10191051)][[**Code**](https://github.com/zjuKeLiu/PCVAE)]     | 
+|DiffCSP++          | Space Group Constrained Crystal Generation (ICLR2024) [[**Paper**](https://openreview.net/forum?id=jkvZ7v4OmP)][[**Code**](https://github.com/jiaor17/DiffCSP-PP)]     | 
 |Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
 |Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
 |Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
