@@ -1,5 +1,22 @@
 # AI-for-crystal-materials： models and benchmarks
-Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences (ICML, ICLR, NeurIPS, AAAI, corresponding workshops) in recent years.
+Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years.
+
+## Crystal Materials Property Prediction
+
+|Method         |           Paper            |
+|----------------|-------------------------------|
+|SchNet|    Schnet: A continuous-filter convolutional neural network for modeling quantum interactions (NeurIPS2017) [[**Paper**](https://proceedings.neurips.cc/paper/2017/hash/303ed4c69846ab36c2904d3ba8573050-Abstract.html)][[**Code**](https://github.com/atomistic-machine-learning/schnetpack)]       |         
+|CGCNN          |    Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties (Physical Review Letters, 2018) [[**Paper**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)][[**Code**](https://github.com/txie-93/cgcnn)]        |     
+|MEGNET          | Graph networks as a universal machine learning framework for molecules and crystals (Chemistry of Materials, 2019) [[**Paper**](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294)][[**Code**](https://github.com/materialsvirtuallab/megnet)]     | 
+|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Physical Chemistry Chemical Physics, 2020) [[**Paper**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp01474e/unauth)][[**Code**](https://github.com/superlouis/GATGNN)]     | 
+|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
+|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
+|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
+|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
+|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
+|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
+
+
 
 
 ## Crystal Materials Property Prediction
