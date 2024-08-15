@@ -64,14 +64,27 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Method         |           Paper            |
 |----------------|-------------------------------|
 |    -      | Insightful classification of crystal structures using deep learning  (Nature Communications, 2018) [[**Paper**](https://www.nature.com/articles/s41467-018-05169-6)]     | 
-|-          | Advanced steel microstructural classification by deep learning methods  (Scientific reports, 2018) [[**Paper**](https://www.nature.com/articles/s41598-018-20037-5)]    | 
-|    -      | Neural network for nanoscience scanning electron microscope image recognition (Scientific reports, 2017) [[**Paper**](https://www.nature.com/articles/s41598-017-13565-z)]     | 
+|-          | Advanced steel microstructural classification by deep learning methods  (Scientific Reports, 2018) [[**Paper**](https://www.nature.com/articles/s41598-018-20037-5)]    | 
+|    -      | Neural network for nanoscience scanning electron microscope image recognition (Scientific Reports, 2017) [[**Paper**](https://www.nature.com/articles/s41598-017-13565-z)]     | 
 |-         | Deep Learning-Assisted Quantification of Atomic Dopants and Defects in 2D Materials (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202101099)]   | 
-|-        | Crystal  (ICLR2022) [[**Paper**]()][[**Code**]()]     | 
+|-        | Classification of crystal structure using a convolutional neural network  (IUCrJ,2017) [[**Paper**](https://journals.iucr.org/m/issues/2017/04/00/fc5018/index.html)]    | 
+|-          | Synthesis, optical imaging, and absorption spectroscopy data for 179072 metal oxides  (Scientific Data, 2019) [[**Paper**](https://www.nature.com/articles/s41597-019-0019-4)]    | 
+
+
 
 
 ## Force Field Development
 |Method         |           Paper            |
 |----------------|-------------------------------|
-|CDVAE          | Crystal  (ICLR2022) [[**Paper**]()][[**Code**]()]     | 
-|CDVAE          | Crystal  (ICLR2022) [[**Paper**]()][[**Code**]()]     | 
+|BPNN         | Generalized neural-network representation of high-dimensional potential-energy surfaces  (Physical Review Letters, 2007) [[**Paper**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401)]    | 
+|-          | Gaussian approximation potentials: The accuracy of quantum mechanics, without the electrons  (Physical Review Letters, 2010) [[**Paper**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.104.136403)]    | 
+|NequIP           | E (3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials  (Nature Communications, 2022) [[**Paper**](https://www.nature.com/articles/s41467-022-29939-5)][[**Code**](https://github.com/mir-group/nequip)]     | 
+|CHGNet          | CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling  (Nature Machine Intelligence, 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00716-3)][[**Code**](https://github.com/CederGroupHub/chgnet)]     | 
+|Cormorant          | Cormorant: Covariant molecular neural networks  (NeurIPS2019) [[**Paper**](https://proceedings.neurips.cc/paper/2019/hash/03573b32b2746e6e8ca98b9123f2249b-Abstract.html)][[**Code**](https://github.com/risilab/cormorant)]     | 
+|MACE         | MACE: Higher order equivariant message passing neural networks for fast and accurate force fields  (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4a36c3c51af11ed9f34615b81edb5bbc-Abstract-Conference.html)][[**Code**](https://github.com/ACEsuit/mace)]     | 
+|DimeNet          | Directional Message Passing for Molecular Graphs  (ICLR2020) [[**Paper**](https://openreview.net/forum?id=B1eWbxStPH)][[**Code**](https://github.com/gasteigerjo/dimenet)]     | 
+|M3GNet        | A universal graph deep learning interatomic potential for the periodic table  (Nature Computational Science, 2022) [[**Paper**](https://www.nature.com/articles/s43588-022-00349-3)][[**Code**](https://github.com/materialsvirtuallab/m3gnet)]     | 
+|-          | Injecting domain knowledge from empirical interatomic potentials to neural networks for predicting material properties  (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ef1df239d6640a27dd6ed9a59f518c9-Abstract-Conference.html)][[**Code**](https://github.com/shuix007/EIP4NNPotentials)]     | 
+|CHGNet        | CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling  (Nature Machine Intelligence, 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00716-3)][[**Code**](https://github.com/CederGroupHub/chgnet)]     | 
+|-          | Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations  (Transactions on Machine Learning Research, 2023) [[**Paper**](https://openreview.net/forum?id=A8pqQipwkt)]     | 
+
