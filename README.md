@@ -60,28 +60,18 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 
 
 
-## Nature
+## Aiding Characterization
+|Method         |           Paper            |
+|----------------|-------------------------------|
+|    -      | Insightful classification of crystal structures using deep learning  (Nature Communications, 2018) [[**Paper**](https://www.nature.com/articles/s41467-018-05169-6)]     | 
+|-          | Advanced steel microstructural classification by deep learning methods  (Scientific reports, 2018) [[**Paper**](https://www.nature.com/articles/s41598-018-20037-5)]    | 
+|    -      | Neural network for nanoscience scanning electron microscope image recognition (Scientific reports, 2017) [[**Paper**](https://www.nature.com/articles/s41598-017-13565-z)]     | 
+|-         | Deep Learning-Assisted Quantification of Atomic Dopants and Defects in 2D Materials (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202101099)]   | 
+|-        | Crystal  (ICLR2022) [[**Paper**]()][[**Code**]()]     | 
 
-- An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning (NC 2023) [[**Paper**](https://www.nature.com/articles/s41467-023-42870-7)]
-            [[**Code**](https://github.com/xiaohang007/SLICES)]
 
-- A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (NC 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)]
-
-- Explainable machine learning in materials science (npj Computational Materials 2022) [[**Paper**](https://www.nature.com/articles/s41524-022-00884-7)]
- 
-- A universal graph deep learning interatomic potential for the periodic table (Nature Computational Science 2022) [[**Paper**](https://www.nature.com/articles/s43588-022-00349-3)]
- 
-- Physics guided deep learning for generative design of crystal materials with symmetry constraints (npj Computational Materials 2023) [[**Paper**](https://doi.org/10.1038/s41524-023-00987-9)]
- 
-
-- MatterGen: a generative model for inorganic materials design (arXiv 2023) [[**Paper**](https://arxiv.org/abs/2312.03687)]
- 
-- Space Group Informed Transformer for Crystalline Materials Generation (arXiv 2024) [[**Paper**](https://arxiv.org/abs/2403.15734)]
-
-- CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling (Nature Machine Intelligence 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00716-3)]
-
-- MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields (arXiv 2023) [[**Paper**](https://arxiv.org/abs/2206.07697)]
-
-- Scaling deep learning for materials discovery (Nature 2023) [[**Paper**](https://www.nature.com/articles/s41586-023-06735-9)]
-
-  
+## Force Field Development
+|Method         |           Paper            |
+|----------------|-------------------------------|
+|CDVAE          | Crystal  (ICLR2022) [[**Paper**]()][[**Code**]()]     | 
+|CDVAE          | Crystal  (ICLR2022) [[**Paper**]()][[**Code**]()]     | 
