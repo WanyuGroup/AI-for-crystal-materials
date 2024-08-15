@@ -1,7 +1,7 @@
 # AI-for-crystal-materials： models and benchmarks
 Here we have collected papers with the theme of "AI for crystal materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years.
 
-## Crystal Materials Property Prediction
+## Crystal Physicochemical Property Prediction
 
 |Method         |           Paper            |
 |----------------|-------------------------------|
@@ -9,12 +9,25 @@ Here we have collected papers with the theme of "AI for crystal materials" that 
 |CGCNN          |    Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties (Physical Review Letters, 2018) [[**Paper**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)][[**Code**](https://github.com/txie-93/cgcnn)]        |     
 |MEGNET          | Graph networks as a universal machine learning framework for molecules and crystals (Chemistry of Materials, 2019) [[**Paper**](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294)][[**Code**](https://github.com/materialsvirtuallab/megnet)]     | 
 |GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Physical Chemistry Chemical Physics, 2020) [[**Paper**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp01474e/unauth)][[**Code**](https://github.com/superlouis/GATGNN)]     | 
-|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
-|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
-|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
-|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
-|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
-|GATGNN          | Graph convolutional neural networks with global attention for improved materials property prediction (Chemistry of Materials, 2019) [[**Paper**]()][[**Code**]()]     | 
+|ALIGNN          | Atomistic line graph neural network for improved materials property predictions (npj Computational Materials, 2021) [[**Paper**](https://www.nature.com/articles/s41524-021-00650-1)][[**Code**](https://github.com/usnistgov/alignn)]     | 
+|ECN          | Equivariant networks for crystal structures (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1abed6ee581b9ceb4e2ddf37822c7fcb-Abstract-Conference.html)][[**Code**](https://github.com/oumarkaba/equivariant_crystal_networks)]     | 
+|PotNet          | Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/lin23m.html)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/PotNet)]     | 
+|CrysGNN          | Crysgnn: Distilling pre-trained knowledge to enhance property prediction for crystalline materials (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25892)][[**Code**](https://github.com/kdmsit/crysgnn)]     | 
+|ETGNN          | A general tensor prediction framework based on graph neural networks (The Journal of Physical Chemistry Letters, 2023) [[**Paper**](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c01200)]     | 
+|GMTNet          |  A Space Group Symmetry Informed Network for O(3) Equivariant Crystal Tensor Prediction (IMCL2024) [[**Paper**](https://openreview.net/forum?id=BOFjRnJ9mX)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/GMTNet)]     | 
+|CEGANN          | CEGANN: Crystal Edge Graph Attention Neural Network for multiscale classification of materials environment (npj Computational Materials, 2023) [[**Paper**](https://www.nature.com/articles/s41524-023-00975-z)][[**Code**](https://github.com/sbanik2/CEGANN)]     | 
+|ComFormer          | Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR2024) [[**Paper**](https://openreview.net/forum?id=BnQY9XiRAS)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/ComFormer)]     | 
+|Crystalformer          |Crystalformer: infinitely connected attention for periodic structure encoding (ICLR2024) [[**Paper**](https://openreview.net/pdf?id=BnQY9XiRAS)][[**Code**](https://github.com/omron-sinicx/crystalformer)]     | 
+|Crystalformer          | Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/27781)]   | 
+|E(3)NN          | Direct prediction of phonon density of states with Euclidean neural networks (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202004214)][[**Code**](https://github.com/zhantaochen/phonondos_e3nn)]     | 
+|DOSTransformer          | Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract-Conference.html)][[**Code**](https://github.com/HeewoongNoh/DOSTransformer)]     | 
+|Matformer          | Periodic Graph Transformers for Crystal Material Property Prediction (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6145c70a4a4bf353a31ac5496a72a72d-Abstract-Conference.html)][[**Code**](https://github.com/YKQ98/Matformer)]     | 
+|CrysDiff          | A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]     | 
+|MOFTransformer        | A multi-modal pre-training transformer for universal transfer learning in metal-organic frameworks (Nature Machine Intelligence, 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00628-2)][[**Code**](https://github.com/hspark1212/MOFTransformer)]     | 
+|Uni-MOF          | A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)][[**Code**](https://github.com/dptech-corp/Uni-MOF)]     | 
+
+
+
 
 
 
