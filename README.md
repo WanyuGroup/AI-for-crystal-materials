@@ -48,51 +48,16 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CubicGAN         | High-throughput discovery of novel cubic crystal materials using deep generative neural networks (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202100566)][[**Code**](https://github.com/MilesZhao/CubicGAN)]     | 
 |PCVAE          | PCVAE: A Physics-informed Neural Network for Determining the Symmetry and Geometry of Crystals (IJCNN2023) [[**Paper**](https://ieeexplore.ieee.org/abstract/document/10191051)][[**Code**](https://github.com/zjuKeLiu/PCVAE)]     | 
 |DiffCSP++          | Space Group Constrained Crystal Generation (ICLR2024) [[**Paper**](https://openreview.net/forum?id=jkvZ7v4OmP)][[**Code**](https://github.com/jiaor17/DiffCSP-PP)]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-|Uni-MOF          | a (Nature Communications, 2024) [[**Paper**]()][[**Code**]()]     | 
-
-## Crystal Representation
-- Resolving the data ambiguity for periodic crystals (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c256fa1965318b7fcb9ed104c265540-Abstract-Conference.html)]
-
-- Neural Structure Fields with Application to Crystal Structure Autoencoders (NeurIPS2022 workshop) [[**Paper**](https://openreview.net/pdf?id=qLKFSAvMka4)]
-
-- Symmetry-Informed Geometric Representation for Molecules, Proteins, and Crystalline Materials (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d07379f3acf3af51dfc8598862cadfa0-Abstract-Datasets_and_Benchmarks.html)]
-            [[**Code**](https://github.com/chao1224/Geom3D)]
-
-- Stoichiometry Representation Learning with Polymorphic Crystal Structures (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=DBiWSzlaGz)]
-            [[**Code**](https://github.com/Namkyeong/PolySRL_AI4Science)]
-
-- Connectivity Optimized Nested Line Graph Networks for Crystal Structures (NeurIPS2023) [[**Paper**](https://openreview.net/pdf?id=l3K28QS6R6)]
-            [[**Code**](https://github.com/matbench-submission-coGN/CrystalGNNs)]
-
-## Other
-
-- Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution (ICML2024) [[**Paper**](https://openreview.net/forum?id=59oXyDTLJv)]
-    [[**Code**](https://github.com/atomicarchitects/Symmetry-Breaking-Discovery)]
-
-- A language-based recommendation system for material discovery (ICML2023 workshop) [[**Paper**](https://openreview.net/pdf?id=eR6HlKQDvt)]
-     
-- Rigid Body Flows for Sampling Molecular Crystal Structures (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/kohler23a.html)]
-            [[**Code**](https://github.com/noegroup/rigid-flows)]
-
-- Automated Diffraction Pattern Analysis for Identifying Crystal Systems Using Multiview Opinion Fusion Machine Learning (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=L6AJmCkfNe)]
-            [[**Code**](https://github.com/YKQ98/Matformer)]
+|FlowMM         | Flow{MM}: Generating Materials with Riemannian Flow Matching (ICML2024) [[**Paper**](https://openreview.net/forum?id=W4pB7VbzZI)][[**Code**](https://github.com/facebookresearch/flowmm)]     | 
+|Govindarajan         | Behavioral Cloning for Crystal Design (ICLR2023 Workshop) [[**Paper**](https://openreview.net/forum?id=qxuIaeDlemv)][[**Code**]()]     | 
+|CHGFlowNet         | Hierarchical GFlownet for Crystal Structure Generation (NeurIPS2023 Workshop) [[**Paper**](https://openreview.net/forum?id=dJuDv4MKLE)]    | 
+|LM-CM,LM-AC          | Language models can generate molecules, materials, and protein binding sites directly in three dimensions as xyz, cif, and pdb files (Arxiv, 2023) [[**Paper**](https://arxiv.org/abs/2305.05708)][[**Code**](https://github.com/danielflamshep/xyztransformer)]     | 
+|CrystaLLM          | Crystal structure generation with autoregressive large language modeling (Arxiv, 2023) [[**Paper**](https://arxiv.org/abs/2307.04340)][[**Code**](https://github.com/lantunes/CrystaLLM)]     | 
+|CrystalFormer          | Space Group Informed Transformer for Crystalline Materials Generation (Arxiv, 2024) [[**Paper**](https://arxiv.org/abs/2403.15734)][[**Code**](https://github.com/deepmodeling/CrystalFormer)]     | 
+|SLI2Cry         | An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning (Nature Communications, 2023) [[**Paper**](https://www.nature.com/articles/s41467-023-42870-7)][[**Code**](https://github.com/xiaohang007/SLICES/tree/main)]     | 
+|Gruver         | Fine-Tuned Language Models Generate Stable Inorganic Materials as Text (ICLR2024) [[**Paper**](https://openreview.net/forum?id=vN9fpfqoP1)][[**Code**](https://github.com/facebookresearch/crystal-text-llm)]     | 
 
 
-
-
-- Mitigating Bias in Scientific Data: A Materials Science Case Study (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=PfpbWuC0Yk)]
-            [[**Code**](https://github.com/Henrium/ET-AL)]
-  
-
-
-
-- EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations (NeurIPS2023 workshop) [[**Paper**](https://openreview.net/pdf?id=SeXGn7MeUr)]
-                        [[**Code**](https://github.com/M3RG-IITD/MDBENCHGNN)]
 
 
 ## Nature
