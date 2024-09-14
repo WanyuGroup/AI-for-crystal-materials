@@ -73,7 +73,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 
 
 
-## Force Field Development
+## Accelerating Theoretical Computation
 |Method         |           Paper            |
 |----------------|-------------------------------|
 |BPNN         | Generalized neural-network representation of high-dimensional potential-energy surfaces  (Physical Review Letters, 2007) [[**Paper**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401)]    | 
