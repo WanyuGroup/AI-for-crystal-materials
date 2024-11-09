@@ -56,8 +56,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystalFormer          | Space Group Informed Transformer for Crystalline Materials Generation (Arxiv, 2024) [[**Paper**](https://arxiv.org/abs/2403.15734)][[**Code**](https://github.com/deepmodeling/CrystalFormer)]     | 
 |SLI2Cry         | An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning (Nature Communications, 2023) [[**Paper**](https://www.nature.com/articles/s41467-023-42870-7)][[**Code**](https://github.com/xiaohang007/SLICES/tree/main)]     | 
 |Gruver         | Fine-Tuned Language Models Generate Stable Inorganic Materials as Text (ICLR2024) [[**Paper**](https://openreview.net/forum?id=vN9fpfqoP1)][[**Code**](https://github.com/facebookresearch/crystal-text-llm)]     | 
-
-
+|FlowLLM         | FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=0bFXbEMz8e)][[**Code**](https://github.com/facebookresearch/flowmm)]     | 
+|Mat2Seq         | Invariant Tokenization of Crystalline Materials for Language Model Enabled Generation (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=18FGRNd0wZ&noteId=Tmq6A9Gswe)]   | 
 
 
 ## Aiding Characterization
