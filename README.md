@@ -58,7 +58,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Gruver         | Fine-Tuned Language Models Generate Stable Inorganic Materials as Text (ICLR2024) [[**Paper**](https://openreview.net/forum?id=vN9fpfqoP1)][[**Code**](https://github.com/facebookresearch/crystal-text-llm)]     | 
 |FlowLLM         | FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=0bFXbEMz8e)][[**Code**](https://github.com/facebookresearch/flowmm)]     | 
 |Mat2Seq         | Invariant Tokenization of Crystalline Materials for Language Model Enabled Generation (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=18FGRNd0wZ&noteId=Tmq6A9Gswe)]   | 
-
+|GenMS         | Generative Hierarchical Materials Search (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=PsPR4NOiRC&noteId=NkcymWeWnc)]   | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
