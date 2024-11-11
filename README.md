@@ -59,6 +59,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |FlowLLM         | FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=0bFXbEMz8e)][[**Code**](https://github.com/facebookresearch/flowmm)]     | 
 |Mat2Seq         | Invariant Tokenization of Crystalline Materials for Language Model Enabled Generation (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=18FGRNd0wZ&noteId=Tmq6A9Gswe)]   | 
 |GenMS         | Generative Hierarchical Materials Search (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=PsPR4NOiRC&noteId=NkcymWeWnc)]   | 
+|ChemReasoner         | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback (ICML2024) [[**Paper**](https://openreview.net/forum?id=3tJDnEszco)]  [[**Code**](https://github.com/pnnl/chemreasoner)]  | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -87,4 +88,4 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-          | Injecting domain knowledge from empirical interatomic potentials to neural networks for predicting material properties  (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ef1df239d6640a27dd6ed9a59f518c9-Abstract-Conference.html)][[**Code**](https://github.com/shuix007/EIP4NNPotentials)]     | 
 |CHGNet        | CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling  (Nature Machine Intelligence, 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00716-3)][[**Code**](https://github.com/CederGroupHub/chgnet)]     | 
 |-          | Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations  (Transactions on Machine Learning Research, 2023) [[**Paper**](https://openreview.net/forum?id=A8pqQipwkt)]     | 
-
+|DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)] 
