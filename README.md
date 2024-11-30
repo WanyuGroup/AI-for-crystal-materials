@@ -14,6 +14,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PotNet          | Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction (ICML2023) [[**Paper**](https://proceedings.mlr.press/v202/lin23m.html)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/PotNet)]     | 
 |CrysGNN          | Crysgnn: Distilling pre-trained knowledge to enhance property prediction for crystalline materials (AAAI2023) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25892)][[**Code**](https://github.com/kdmsit/crysgnn)]     | 
 |ETGNN          | A general tensor prediction framework based on graph neural networks (The Journal of Physical Chemistry Letters, 2023) [[**Paper**](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c01200)]     | 
+|DTNet          | Dielectric tensor prediction for inorganic materials using latent information from preferred potential (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01450-z)][[**Code**](https://github.com/pfnet-research/dielectric-pred)]     | 
 |GMTNet          |  A Space Group Symmetry Informed Network for O(3) Equivariant Crystal Tensor Prediction (ICML2024) [[**Paper**](https://openreview.net/forum?id=BOFjRnJ9mX)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/GMTNet)]     | 
 |CEGANN          | CEGANN: Crystal Edge Graph Attention Neural Network for multiscale classification of materials environment (npj Computational Materials, 2023) [[**Paper**](https://www.nature.com/articles/s41524-023-00975-z)][[**Code**](https://github.com/sbanik2/CEGANN)]     | 
 |ComFormer          | Complete and Efficient Graph Transformers for Crystal Material Property Prediction (ICLR2024) [[**Paper**](https://openreview.net/forum?id=BnQY9XiRAS)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/ComFormer)]     | 
@@ -25,7 +26,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrysDiff          | A Diffusion-Based Pre-training Framework for Crystal Property Prediction (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28748)]     | 
 |MOFTransformer        | A multi-modal pre-training transformer for universal transfer learning in metal-organic frameworks (Nature Machine Intelligence, 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00628-2)][[**Code**](https://github.com/hspark1212/MOFTransformer)]     | 
 |Uni-MOF          | A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)][[**Code**](https://github.com/dptech-corp/Uni-MOF)]     | 
-
+|SODNet          | Learning Superconductivity from Ordered and Disordered Material Structures (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=iNYrB3ip9F#discussion)][[**Code**](https://github.com/pincher-chen/SODNet)]     | 
 
 
 ## Crystalline Material Synthesis
@@ -38,6 +39,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Cond-CDVAE         | Deep learning generative model for crystal structure prediction (Arxiv, 2024) [[**Paper**](https://arxiv.org/abs/2403.10846)][[**Code**](https://github.com/ixsluo/cond-cdvae)]     | 
 |LCOMs          | Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction (NeurIPS2023 Workshop) [[**Paper**](https://openreview.net/forum?id=BTeWafMOyt)]     | 
 |DiffCSP          | Crystal structure prediction by joint equivariant diffusion on lattices and fractional coordinates (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38b787fc530d0b31825827e2cc306656-Abstract-Conference.html)][[**Code**](https://github.com/jiaor17/DiffCSP)]     | 
+|DiffCSP-SC         | Learning Superconductivity from Ordered and Disordered Material Structures (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=iNYrB3ip9F#discussion)][[**Code**](https://github.com/pincher-chen/DiffCSP-SC)]     | 
 |EquiCSP         | Equivariant Diffusion for Crystal Structure Prediction (ICML2024) [[**Paper**](https://openreview.net/forum?id=VRv8KjJNuj)][[**Code**](https://github.com/EmperorJia/EquiCSP)]     | 
 |GemsDiff         | Vector Field Oriented Diffusion Model for Crystal Material Generation (AAAI2024) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/30224)][[**Code**](https://github.com/aklipf/gemsdiff)]     | 
 |SyMat          | Towards symmetry-aware generation of periodic materials (NeurIPS2023) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a73474c359ed523e6cd3174ed29a4d56-Abstract-Conference.html)][[**Code**](https://github.com/divelab/AIRS/tree/main/OpenMat/SyMat)]     | 
