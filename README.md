@@ -62,7 +62,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Mat2Seq         | Invariant Tokenization of Crystalline Materials for Language Model Enabled Generation (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=18FGRNd0wZ&noteId=Tmq6A9Gswe)]   | 
 |GenMS         | Generative Hierarchical Materials Search (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=PsPR4NOiRC&noteId=NkcymWeWnc)]   | 
 |ChemReasoner         | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback (ICML2024) [[**Paper**](https://openreview.net/forum?id=3tJDnEszco)]  [[**Code**](https://github.com/pnnl/chemreasoner)]  | 
-
+|a²c         | Predicting emergence of crystals from amorphous precursors with deep learning potentials (Nature Computational Science, 2024) [[**Paper**](https://www.nature.com/articles/s43588-024-00752-y)][[**Code**](https://github.com/jax-md/jax-md/tree/main/jax_md/a2c)]     | 
 ## Aiding Characterization
 |Method         |           Paper            |
 |----------------|-------------------------------|
