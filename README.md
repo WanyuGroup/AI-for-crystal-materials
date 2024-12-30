@@ -74,7 +74,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-         | Deep Learning-Assisted Quantification of Atomic Dopants and Defects in 2D Materials (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202101099)]   | 
 |-        | Classification of crystal structure using a convolutional neural network  (IUCrJ,2017) [[**Paper**](https://journals.iucr.org/m/issues/2017/04/00/fc5018/index.html)]    | 
 |-          | Synthesis, optical imaging, and absorption spectroscopy data for 179072 metal oxides  (Scientific Data, 2019) [[**Paper**](https://www.nature.com/articles/s41597-019-0019-4)]    | 
+|-          | Adaptively driven X-ray diffraction guided by machine learning for autonomous phase identification  (npj Computational Materials, 2023) [[**Paper**](https://www.nature.com/articles/s41524-023-00984-y?fromPaywallRec=false)] [[**Code**](https://github.com/njszym/AdaptiveXRD)]     | 
 |-          | Automated classification of big X-ray diffraction data using deep learning models  (npj Computational Materials, 2023) [[**Paper**](https://www.nature.com/articles/s41524-023-01164-8?fromPaywallRec=false)] [[**Code**](https://github.com/AGI-init/XRDs)]     | 
+|XRD-AutoAnalyzer         | Integrated analysis of X-ray diffraction patterns and pair distribution functions for machine-learned phase identification  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01230-9?fromPaywallRec=false)] [[**Code**](https://github.com/njszym/XRD-AutoAnalyzer)]     | 
 |CrystalNet          | Towards end-to-end structure determination from x-ray diffraction data using deep learning  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01401-8)] [[**Code**](https://github.com/gabeguo/deep-crystallography-public)]     | 
 
 
