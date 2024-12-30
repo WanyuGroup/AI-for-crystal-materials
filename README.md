@@ -63,6 +63,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |GenMS         | Generative Hierarchical Materials Search (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=PsPR4NOiRC&noteId=NkcymWeWnc)]   | 
 |ChemReasoner         | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback (ICML2024) [[**Paper**](https://openreview.net/forum?id=3tJDnEszco)]  [[**Code**](https://github.com/pnnl/chemreasoner)]  | 
 |a²c         | Predicting emergence of crystals from amorphous precursors with deep learning potentials (Nature Computational Science, 2024) [[**Paper**](https://www.nature.com/articles/s43588-024-00752-y)][[**Code**](https://github.com/jax-md/jax-md/tree/main/jax_md/a2c)]     | 
+
+
 ## Aiding Characterization
 |Method         |           Paper            |
 |----------------|-------------------------------|
@@ -72,7 +74,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-         | Deep Learning-Assisted Quantification of Atomic Dopants and Defects in 2D Materials (Advanced Science, 2021) [[**Paper**](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202101099)]   | 
 |-        | Classification of crystal structure using a convolutional neural network  (IUCrJ,2017) [[**Paper**](https://journals.iucr.org/m/issues/2017/04/00/fc5018/index.html)]    | 
 |-          | Synthesis, optical imaging, and absorption spectroscopy data for 179072 metal oxides  (Scientific Data, 2019) [[**Paper**](https://www.nature.com/articles/s41597-019-0019-4)]    | 
-
+|CrystalNet          | Towards end-to-end structure determination from x-ray diffraction data using deep learning  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01401-8)] [[**Code**](https://github.com/gabeguo/deep-crystallography-public)]     | 
 
 
 
