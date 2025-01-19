@@ -1,5 +1,5 @@
 # AI-for-crystal-materials： models and benchmarks
-Here we have collected papers with the theme of "AI for crystalline materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years. See https://arxiv.org/abs/2408.08044 for details. We will keep it updated.
+Here we have collected papers with the theme of "AI for crystalline materials" that have appeared at top machine learning conferences and journals (ICML, ICLR, NeurIPS, AAAI, NPJ, NC, etc.) in recent years. See https://arxiv.org/abs/2408.08044 for details. We will keep this page updated.
 
 ## Crystalline Material Physicochemical Property Prediction
 
