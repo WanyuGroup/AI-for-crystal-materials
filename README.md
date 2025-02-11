@@ -28,6 +28,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |Uni-MOF          | A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-46276-x)][[**Code**](https://github.com/dptech-corp/Uni-MOF)]     | 
 |SODNet          | Learning Superconductivity from Ordered and Disordered Material Structures (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=iNYrB3ip9F#discussion)][[**Code**](https://github.com/pincher-chen/SODNet)]     | 
 |ECSG          | Predicting thermodynamic stability of inorganic compounds using ensemble machine learning based on electron configuration (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55525-y)][[**Code**](https://github.com/Haozou-csu/ECSG)]     | 
+|ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
 
 ## Crystalline Material Synthesis
 
@@ -63,6 +64,13 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ChemReasoner         | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback (ICML2024) [[**Paper**](https://openreview.net/forum?id=3tJDnEszco)]  [[**Code**](https://github.com/pnnl/chemreasoner)]  | 
 |a²c         | Predicting emergence of crystals from amorphous precursors with deep learning potentials (Nature Computational Science, 2024) [[**Paper**](https://www.nature.com/articles/s43588-024-00752-y)][[**Code**](https://github.com/jax-md/jax-md/tree/main/jax_md/a2c)]     | 
 |MatterGen         | A generative model for inorganic materials design (Nature, 2025) [[**Paper**](https://www.nature.com/articles/s41586-025-08628-5)][[**Code**](https://github.com/microsoft/mattergen)]     | 
+|SymmCD         |SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models (ICLR2025) [[**Paper**](https://openreview.net/forum?id=xnssGv9rpW)][[**Code**](https://github.com/sibasmarak/SymmCD)]     | 
+|MatExpert         |MatExpert: Decomposing Materials Discovery By Mimicking Human Experts (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AUBvo4sxVL)]    | 
+|-         |Designing Mechanical Meta-Materials by Learning Equivariant Flows (ICLR2025) [[**Paper**](https://openreview.net/forum?id=VMurwgAFWP)]    | 
+|MOFFlow         |MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks (ICLR2025) [[**Paper**](https://openreview.net/forum?id=dNT3abOsLo)]   | 
+|TGDMat          |Periodic Materials Generation using Text-Guided Joint Diffusion Model (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AkBrb7yQ0G)]    | 
+|CrysBFN          |A Periodic Bayesian Flow for Material Generation (ICLR2025) [[**Paper**](https://openreview.net/forum?id=Lz0XW99tE0)]  [[**Code**](https://github.com/wu-han-lin/CrysBFN)]   | 
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -94,7 +102,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-          | Injecting domain knowledge from empirical interatomic potentials to neural networks for predicting material properties  (NeurIPS2022) [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ef1df239d6640a27dd6ed9a59f518c9-Abstract-Conference.html)][[**Code**](https://github.com/shuix007/EIP4NNPotentials)]     | 
 |CHGNet        | CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling  (Nature Machine Intelligence, 2023) [[**Paper**](https://www.nature.com/articles/s42256-023-00716-3)][[**Code**](https://github.com/CederGroupHub/chgnet)]     | 
 |-          | Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations  (Transactions on Machine Learning Research, 2023) [[**Paper**](https://openreview.net/forum?id=A8pqQipwkt)]     | 
-|DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)] 
+|DeepRelax     |Scalable crystal structure relaxation using an iteration-free deep generative model with uncertainty quantification  (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-52378-3)]   [[**Code**](https://github.com/Shen-Group/DeepRelax)]  | 
+|AssembleFlow     |AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly  (ICLR2025) [[**Paper**](https://openreview.net/forum?id=jckKNzYYA6)]  |  
 
 ## Common Dataset and Platform
 
