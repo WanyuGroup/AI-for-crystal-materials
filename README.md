@@ -29,6 +29,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |SODNet          | Learning Superconductivity from Ordered and Disordered Material Structures (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=iNYrB3ip9F#discussion)][[**Code**](https://github.com/pincher-chen/SODNet)]     | 
 |ECSG          | Predicting thermodynamic stability of inorganic compounds using ensemble machine learning based on electron configuration (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-024-55525-y)][[**Code**](https://github.com/Haozou-csu/ECSG)]     | 
 |ECD         |ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials (ICLR2025) [[**Paper**](https://openreview.net/forum?id=SBCMNc3Mq3)]    | 
+|CrystalFramer         |Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR2025) [[**Paper**](https://openreview.net/forum?id=gzxDjnvBDa)]    | 
+|SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
+
 
 ## Crystalline Material Synthesis
 
@@ -70,7 +73,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MOFFlow         |MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks (ICLR2025) [[**Paper**](https://openreview.net/forum?id=dNT3abOsLo)]   | 
 |TGDMat          |Periodic Materials Generation using Text-Guided Joint Diffusion Model (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AkBrb7yQ0G)]    | 
 |CrysBFN          |A Periodic Bayesian Flow for Material Generation (ICLR2025) [[**Paper**](https://openreview.net/forum?id=Lz0XW99tE0)]  [[**Code**](https://github.com/wu-han-lin/CrysBFN)]   | 
-
+|OSDAs         |OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents (ICLR2025) [[**Paper**](https://openreview.net/forum?id=9YNyiCJE3k)]    | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
