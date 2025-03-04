@@ -33,6 +33,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystalFramer         |Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR2025) [[**Paper**](https://openreview.net/forum?id=gzxDjnvBDa)]    | 
 |SimXRD         |SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystalline Symmetry Classification Benchmark (ICLR2025) [[**Paper**](https://openreview.net/forum?id=mkuB677eMM)]  [[**Code**](https://github.com/Bin-Cao/SimXRD)]   | 
 |ct-UAE         |Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-56481-x)]  [[**Code**](https://github.com/fduabinitio/ct-UAE)]   | 
+|-         |Cross-scale covariance for material property prediction (npj Computational Materials, 2025) [[**Paper**](https://www.nature.com/articles/s41524-024-01453-w)]  [[**Code**](https://github.com/bjasperson/strength_covariance)]   | 
 
 ## Crystalline Material Synthesis
 
