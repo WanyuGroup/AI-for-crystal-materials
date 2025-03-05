@@ -90,6 +90,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |-          | Automated classification of big X-ray diffraction data using deep learning models  (npj Computational Materials, 2023) [[**Paper**](https://www.nature.com/articles/s41524-023-01164-8?fromPaywallRec=false)] [[**Code**](https://github.com/AGI-init/XRDs)]     | 
 |XRD-AutoAnalyzer         | Integrated analysis of X-ray diffraction patterns and pair distribution functions for machine-learned phase identification  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01230-9?fromPaywallRec=false)] [[**Code**](https://github.com/njszym/XRD-AutoAnalyzer)]     | 
 |CrystalNet          | Towards end-to-end structure determination from x-ray diffraction data using deep learning  (npj Computational Materials, 2024) [[**Paper**](https://www.nature.com/articles/s41524-024-01401-8)] [[**Code**](https://github.com/gabeguo/deep-crystallography-public)]     | 
+|-          | Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model  (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=GB5a0RRYuv)] [[**Code**](https://github.com/MasterAI-EAM/Material-Knowledge-Graph)]     | 
+
 
 
 
