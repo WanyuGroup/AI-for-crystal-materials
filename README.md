@@ -68,6 +68,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |GenMS         | Generative Hierarchical Materials Search (NeurIPS2024) [[**Paper**](https://openreview.net/forum?id=PsPR4NOiRC&noteId=NkcymWeWnc)]   | 
 |ChemReasoner         | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback (ICML2024) [[**Paper**](https://openreview.net/forum?id=3tJDnEszco)]  [[**Code**](https://github.com/pnnl/chemreasoner)]  | 
 |a²c         | Predicting emergence of crystals from amorphous precursors with deep learning potentials (Nature Computational Science, 2024) [[**Paper**](https://www.nature.com/articles/s43588-024-00752-y)][[**Code**](https://github.com/jax-md/jax-md/tree/main/jax_md/a2c)]     | 
+|-          |Rapid prediction of molecular crystal structures using simple topological and physical descriptors (Nature Communications, 2024) [[**Paper**](https://www.nature.com/articles/s41467-024-53596-5?fromPaywallRec=false)]    | 
 |MatterGen         | A generative model for inorganic materials design (Nature, 2025) [[**Paper**](https://www.nature.com/articles/s41586-025-08628-5)][[**Code**](https://github.com/microsoft/mattergen)]     | 
 |SymmCD         |SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models (ICLR2025) [[**Paper**](https://openreview.net/forum?id=xnssGv9rpW)][[**Code**](https://github.com/sibasmarak/SymmCD)]     | 
 |MatExpert         |MatExpert: Decomposing Materials Discovery By Mimicking Human Experts (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AUBvo4sxVL)]    | 
@@ -76,6 +77,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |TGDMat          |Periodic Materials Generation using Text-Guided Joint Diffusion Model (ICLR2025) [[**Paper**](https://openreview.net/forum?id=AkBrb7yQ0G)]    | 
 |CrysBFN          |A Periodic Bayesian Flow for Material Generation (ICLR2025) [[**Paper**](https://openreview.net/forum?id=Lz0XW99tE0)]  [[**Code**](https://github.com/wu-han-lin/CrysBFN)]   | 
 |OSDAs         |OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents (ICLR2025) [[**Paper**](https://openreview.net/forum?id=9YNyiCJE3k)]    | 
+|MAGUS        | Efficient crystal structure prediction based on the symmetry principle (Nature Computational Science, 2025) [[**Paper**](https://www.nature.com/articles/s43588-025-00775-z)]     | 
+|Target XXXI        | A robust crystal structure prediction method to support small molecule drug development with large scale validation and blind study (Nature Communications, 2025) [[**Paper**](https://www.nature.com/articles/s41467-025-57479-1)]    |
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
